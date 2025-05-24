@@ -1,0 +1,16 @@
+<manifest xmlns:tools="http://schemas.android.com/tools"
+    package="com.sampatrilhos" xmlns:android="http://schemas.android.com/apk/res/android">
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"
+        tools:ignore="CoarseFineLocation" />
+    <application android:label="SampaTrilhos">
+        <meta-data android:name="com.google.android.geo.API_KEY" android:value="AIzaSyC9Ov9UdX7y37-Jaf0l8RmAq2u1b9jbxe0"/>
+        <activity android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+</manifest>

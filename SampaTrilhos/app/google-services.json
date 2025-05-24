@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "286256647377",
+    "project_id": "sampatrilhos-9111c",
+    "storage_bucket": "sampatrilhos-9111c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:286256647377:android:de75478ee1bde9327449f0",
+        "android_client_info": {
+          "package_name": "com.sampatrilhos"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJeGIZ_JPdGSKbOoGut5KLtzOUaq8-wUk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
